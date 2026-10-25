@@ -1,0 +1,6 @@
+{
+  "name": "Imari - Smart Business & Personal Finance Manager",
+  "description": "Comprehensive business and personal financial management system in Rwandan Francs (RWF) with stock inventory, profit calculations, cash flow, debt tracking, savings, and weekly reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
